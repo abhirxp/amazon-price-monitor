@@ -56,4 +56,4 @@ Watch the script in action here: https://youtu.be/bDC-tXkde_U
 
 [ ] Build a simple Streamlit dashboard to visualize the price history.
 
-Created by [abhirxp] - Open for Freelance Automation Projects.
+Created by [abhirxp] - Open for Freelance Automation Projects. 
