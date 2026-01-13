@@ -46,6 +46,9 @@ A robust Python automation script designed to track product prices on Amazon. Th
    ```
 5. The script generates a price_history.csv file automatically.
 
+## 🎥 Demo
+Watch the script in action here: https://youtu.be/bDC-tXkde_U
+
 ## 🔮Future Improvements
 [ ] Add Email/Telegram alerts when price drops below a threshold.
 
