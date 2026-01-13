@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Example Product 1",
+        "url": "https://www.amazon.in/example-product-link-here"
+    },
+    {
+        "name": "Example Product 2",
+        "url": "https://www.amazon.in/another-example-link"
+    }
+]
